@@ -15,7 +15,6 @@ class _HomeState extends State<Home> {
   int _selectedIndex = 0;
 
   static List<Widget> pages = <Widget>[
-    // TODO: Replace with Card1
     const Card1(),
     // TODO: Replace with Card2
     Container(
